@@ -63,7 +63,7 @@ play() {
                         echo "Good job!"
                         break
                         ;;
-                    "I0005N")
+                    "I0015N")
                         echo -e "This course was cool, but is not the course for this assignment.\n"
                         ;;
                     *)
