@@ -42,5 +42,5 @@ Communication in Information Systems, using the concepts listed below:
 ### Comments
 - **Description**: Use comments (`#`) to add explanations and documentation to your scripts.
 
-## Game Demo
-![game-demo](assets/demo.gif)
+## Script Demo
+![script-demo](assets/demo.gif)
